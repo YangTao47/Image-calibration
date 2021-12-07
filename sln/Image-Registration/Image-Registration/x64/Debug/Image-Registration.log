@@ -1,0 +1,148 @@
+﻿  main.cpp
+  match.cpp
+  sar_sift.cpp
+  源.cpp
+  正在生成代码...
+源.obj : error LNK2005: main 已经在 main.obj 中定义
+opencv_core341.lib(alloc.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(alloc.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(stl.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(stl.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matrix.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matrix.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(out.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(out.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(system.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(system.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(copy.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(copy.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matrix_expressions.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matrix_expressions.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matrix_iterator.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matrix_iterator.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(opencv_core_pch.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(opencv_core_pch.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(umatrix.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(umatrix.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matrix_operations.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matrix_operations.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(trace.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(trace.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(ocl.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(ocl.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matrix_wrap.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matrix_wrap.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(convert.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(convert.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(channels.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(channels.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(array.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(array.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(datastructs.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(datastructs.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matrix_c.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matrix_c.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(arithm.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(arithm.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(opencl_kernels_core.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(opencl_kernels_core.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matmul.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matmul.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(lapack.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(lapack.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(sum.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(sum.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(tables.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(tables.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(logger.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(logger.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(filesystem.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(filesystem.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(glob.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(glob.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(opencl_core.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(opencl_core.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(cuda_gpu_mat.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(cuda_gpu_mat.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(cuda_host_mem.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(cuda_host_mem.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(cuda_stream.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(cuda_stream.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(opengl.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(opengl.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(convert_scale.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(convert_scale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(convert.fp16.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(convert.fp16.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(convert.sse4_1.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(convert.sse4_1.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(persistence_c.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(persistence_c.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(kmeans.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(kmeans.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(pca.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(pca.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matrix_decomp.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matrix_decomp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(norm.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(norm.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(minmax.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(minmax.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(convert.avx2.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(convert.avx2.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(persistence_cpp.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(persistence_cpp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(persistence_base64.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(persistence_base64.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(persistence.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(persistence.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(persistence_xml.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(persistence_xml.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(persistence_yml.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(persistence_yml.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(persistence_json.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(persistence_json.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(persistence_types.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(persistence_types.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(rand.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(rand.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(parallel.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(parallel.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(stat.dispatch.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(stat.dispatch.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(matrix_sparse.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(matrix_sparse.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(stat.sse4_2.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(stat.sse4_2.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+opencv_core341.lib(stat.avx2.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+opencv_core341.lib(stat.avx2.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(main.obj 中)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl cv::BFMatcher::BFMatcher(int,bool)" (??0BFMatcher@cv@@QEAA@H_N@Z)，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "class cv::Mat __cdecl cv::imread(class cv::String const &,int)" (?imread@cv@@YA?AVMat@1@AEBVString@1@H@Z)，该符号在函数 main 中被引用
+源.obj : error LNK2001: 无法解析的外部符号 "class cv::Mat __cdecl cv::imread(class cv::String const &,int)" (?imread@cv@@YA?AVMat@1@AEBVString@1@H@Z)
+main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::namedWindow(class cv::String const &,int)" (?namedWindow@cv@@YAXAEBVString@1@H@Z)，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z)，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::imshow(class cv::String const &,class cv::debug_build_guard::_InputArray const &)" (?imshow@cv@@YAXAEBVString@1@AEBV_InputArray@debug_build_guard@1@@Z)，该符号在函数 main 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl cv::Mat::copyTo(class cv::debug_build_guard::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@debug_build_guard@2@@Z)，该符号在函数 "class cv::Mat __cdecl LMS(class cv::Mat const &,class cv::Mat const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float &)" (?LMS@@YA?AVMat@cv@@AEBV12@0V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAM@Z) 中被引用
+sar_sift.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl cv::Mat::copyTo(class cv::debug_build_guard::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@debug_build_guard@2@@Z)
+match.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl cv::Mat::convertTo(class cv::debug_build_guard::_OutputArray const &,int,double,double)const " (?convertTo@Mat@cv@@QEBAXAEBV_OutputArray@debug_build_guard@2@HNN@Z)，该符号在函数 "public: class cv::Mat_<float> & __cdecl cv::Mat_<float>::operator=(class cv::Mat &&)" (??4?$Mat_@M@cv@@QEAAAEAV01@$$QEAVMat@1@@Z) 中被引用
+sar_sift.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl cv::Mat::convertTo(class cv::debug_build_guard::_OutputArray const &,int,double,double)const " (?convertTo@Mat@cv@@QEBAXAEBV_OutputArray@debug_build_guard@2@HNN@Z)
+match.obj : error LNK2019: 无法解析的外部符号 "class cv::Scalar_<double> __cdecl cv::sum(class cv::debug_build_guard::_InputArray const &)" (?sum@cv@@YA?AV?$Scalar_@N@1@AEBV_InputArray@debug_build_guard@1@@Z)，该符号在函数 "class cv::Mat __cdecl LMS(class cv::Mat const &,class cv::Mat const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float &)" (?LMS@@YA?AVMat@cv@@AEBV12@0V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAM@Z) 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::pow(class cv::debug_build_guard::_InputArray const &,double,class cv::debug_build_guard::_OutputArray const &)" (?pow@cv@@YAXAEBV_InputArray@debug_build_guard@1@NAEBV_OutputArray@31@@Z)，该符号在函数 "class cv::Mat __cdecl FSC(class std::vector<class cv::Point_<float>,class std::allocator<class cv::Point_<float> > > const &,class std::vector<class cv::Point_<float>,class std::allocator<class cv::Point_<float> > > const &,class std::vector<class cv::Point_<float>,class std::allocator<class cv::Point_<float> > > const &,class std::vector<class cv::Point_<float>,class std::allocator<class cv::Point_<float> > > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float,class std::vector<bool,class std::allocator<bool> > &,float &)" (?FSC@@YA?AVMat@cv@@AEBV?$vector@V?$Point_@M@cv@@V?$allocator@V?$Point_@M@cv@@@std@@@std@@000V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@MAEAV?$vector@_NV?$allocator@_N@std@@@4@AEAM@Z) 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::transpose(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &)" (?transpose@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV_OutputArray@31@@Z)，该符号在函数 "class cv::Mat __cdecl LMS(class cv::Mat const &,class cv::Mat const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float &)" (?LMS@@YA?AVMat@cv@@AEBV12@0V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAM@Z) 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "bool __cdecl cv::solve(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,int)" (?solve@cv@@YA_NAEBV_InputArray@debug_build_guard@1@0AEBV_OutputArray@31@H@Z)，该符号在函数 "class cv::Mat __cdecl LMS(class cv::Mat const &,class cv::Mat const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float &)" (?LMS@@YA?AVMat@cv@@AEBV12@0V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAM@Z) 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::randu(class cv::debug_build_guard::_InputOutputArray const &,class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_InputArray const &)" (?randu@cv@@YAXAEBV_InputOutputArray@debug_build_guard@1@AEBV_InputArray@31@1@Z)，该符号在函数 "class cv::Mat __cdecl FSC(class std::vector<class cv::Point_<float>,class std::allocator<class cv::Point_<float> > > const &,class std::vector<class cv::Point_<float>,class std::allocator<class cv::Point_<float> > > const &,class std::vector<class cv::Point_<float>,class std::allocator<class cv::Point_<float> > > const &,class std::vector<class cv::Point_<float>,class std::allocator<class cv::Point_<float> > > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float,class std::vector<bool,class std::allocator<bool> > &,float &)" (?FSC@@YA?AVMat@cv@@AEBV?$vector@V?$Point_@M@cv@@V?$allocator@V?$Point_@M@cv@@@std@@@std@@000V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@MAEAV?$vector@_NV?$allocator@_N@std@@@4@AEAM@Z) 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::drawKeypoints(class cv::debug_build_guard::_InputArray const &,class std::vector<class cv::KeyPoint,class std::allocator<class cv::KeyPoint> > const &,class cv::debug_build_guard::_InputOutputArray const &,class cv::Scalar_<double> const &,int)" (?drawKeypoints@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV?$vector@VKeyPoint@cv@@V?$allocator@VKeyPoint@cv@@@std@@@std@@AEBV_InputOutputArray@31@AEBV?$Scalar_@N@1@H@Z)，该符号在函数 "class cv::Mat __cdecl match(class cv::Mat const &,class cv::Mat const &,class std::vector<class std::vector<class cv::DMatch,class std::allocator<class cv::DMatch> >,class std::allocator<class std::vector<class cv::DMatch,class std::allocator<class cv::DMatch> > > > const &,class std::vector<class cv::KeyPoint,class std::allocator<class cv::KeyPoint> >,class std::vector<class cv::KeyPoint,class std::allocator<class cv::KeyPoint> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::vector<class cv::DMatch,class std::allocator<class cv::DMatch> > &,class cv::Mat &)" (?match@@YA?AVMat@cv@@AEBV12@0AEBV?$vector@V?$vector@VDMatch@cv@@V?$allocator@VDMatch@cv@@@std@@@std@@V?$allocator@V?$vector@VDMatch@cv@@V?$allocator@VDMatch@cv@@@std@@@std@@@2@@std@@V?$vector@VKeyPoint@cv@@V?$allocator@VKeyPoint@cv@@@std@@@4@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@AEAV?$vector@VDMatch@cv@@V?$allocator@VDMatch@cv@@@std@@@4@AEAV12@@Z) 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::drawMatches(class cv::debug_build_guard::_InputArray const &,class std::vector<class cv::KeyPoint,class std::allocator<class cv::KeyPoint> > const &,class cv::debug_build_guard::_InputArray const &,class std::vector<class cv::KeyPoint,class std::allocator<class cv::KeyPoint> > const &,class std::vector<class cv::DMatch,class std::allocator<class cv::DMatch> > const &,class cv::debug_build_guard::_InputOutputArray const &,class cv::Scalar_<double> const &,class cv::Scalar_<double> const &,class std::vector<char,class std::allocator<char> > const &,int)" (?drawMatches@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV?$vector@VKeyPoint@cv@@V?$allocator@VKeyPoint@cv@@@std@@@std@@01AEBV?$vector@VDMatch@cv@@V?$allocator@VDMatch@cv@@@std@@@5@AEBV_InputOutputArray@31@AEBV?$Scalar_@N@1@4AEBV?$vector@DV?$allocator@D@std@@@5@H@Z)，该符号在函数 "class cv::Mat __cdecl match(class cv::Mat const &,class cv::Mat const &,class std::vector<class std::vector<class cv::DMatch,class std::allocator<class cv::DMatch> >,class std::allocator<class std::vector<class cv::DMatch,class std::allocator<class cv::DMatch> > > > const &,class std::vector<class cv::KeyPoint,class std::allocator<class cv::KeyPoint> >,class std::vector<class cv::KeyPoint,class std::allocator<class cv::KeyPoint> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::vector<class cv::DMatch,class std::allocator<class cv::DMatch> > &,class cv::Mat &)" (?match@@YA?AVMat@cv@@AEBV12@0AEBV?$vector@V?$vector@VDMatch@cv@@V?$allocator@VDMatch@cv@@@std@@@std@@V?$allocator@V?$vector@VDMatch@cv@@V?$allocator@VDMatch@cv@@@std@@@std@@@2@@std@@V?$vector@VKeyPoint@cv@@V?$allocator@VKeyPoint@cv@@@std@@@4@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@AEAV?$vector@VDMatch@cv@@V?$allocator@VDMatch@cv@@@std@@@4@AEAV12@@Z) 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::warpPerspective(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,class cv::debug_build_guard::_InputArray const &,class cv::Size_<int>,int,int,class cv::Scalar_<double> const &)" (?warpPerspective@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV_OutputArray@31@0V?$Size_@H@1@HHAEBV?$Scalar_@N@1@@Z)，该符号在函数 "void __cdecl image_fusion(class cv::Mat const &,class cv::Mat const &,class cv::Mat,class cv::Mat &,class cv::Mat &)" (?image_fusion@@YAXAEBVMat@cv@@0V12@AEAV12@2@Z) 中被引用
+match.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::cvtColor(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV_OutputArray@31@HH@Z)，该符号在函数 "void __cdecl image_fusion(class cv::Mat const &,class cv::Mat const &,class cv::Mat,class cv::Mat &,class cv::Mat &)" (?image_fusion@@YAXAEBVMat@cv@@0V12@AEAV12@2@Z) 中被引用
+sar_sift.obj : error LNK2001: 无法解析的外部符号 "void __cdecl cv::cvtColor(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV_OutputArray@31@HH@Z)
+match.obj : error LNK2019: 无法解析的外部符号 "bool __cdecl cv::imwrite(class cv::String const &,class cv::debug_build_guard::_InputArray const &,class std::vector<int,class std::allocator<int> > const &)" (?imwrite@cv@@YA_NAEBVString@1@AEBV_InputArray@debug_build_guard@1@AEBV?$vector@HV?$allocator@H@std@@@std@@@Z)，该符号在函数 "void __cdecl image_fusion(class cv::Mat const &,class cv::Mat const &,class cv::Mat,class cv::Mat &,class cv::Mat &)" (?image_fusion@@YAXAEBVMat@cv@@0V12@AEAV12@2@Z) 中被引用
+源.obj : error LNK2001: 无法解析的外部符号 "bool __cdecl cv::imwrite(class cv::String const &,class cv::debug_build_guard::_InputArray const &,class std::vector<int,class std::allocator<int> > const &)" (?imwrite@cv@@YA_NAEBVString@1@AEBV_InputArray@debug_build_guard@1@AEBV?$vector@HV?$allocator@H@std@@@std@@@Z)
+sar_sift.obj : error LNK2019: 无法解析的外部符号 "public: class cv::MatExpr __cdecl cv::Mat::mul(class cv::debug_build_guard::_InputArray const &,double)const " (?mul@Mat@cv@@QEBA?AVMatExpr@2@AEBV_InputArray@debug_build_guard@2@N@Z)，该符号在函数 "public: void __cdecl Sar_sift::build_sar_sift_space(class cv::Mat const &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &)" (?build_sar_sift_space@Sar_sift@@QEAAXAEBVMat@cv@@AEAV?$vector@VMat@cv@@V?$allocator@VMat@cv@@@std@@@std@@11@Z) 中被引用
+sar_sift.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::log(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &)" (?log@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV_OutputArray@31@@Z)，该符号在函数 "public: void __cdecl Sar_sift::build_sar_sift_space(class cv::Mat const &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &)" (?build_sar_sift_space@Sar_sift@@QEAAXAEBVMat@cv@@AEAV?$vector@VMat@cv@@V?$allocator@VMat@cv@@@std@@@std@@11@Z) 中被引用
+sar_sift.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::phase(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,bool)" (?phase@cv@@YAXAEBV_InputArray@debug_build_guard@1@0AEBV_OutputArray@31@_N@Z)，该符号在函数 "public: void __cdecl Sar_sift::build_sar_sift_space(class cv::Mat const &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &)" (?build_sar_sift_space@Sar_sift@@QEAAXAEBVMat@cv@@AEAV?$vector@VMat@cv@@V?$allocator@VMat@cv@@@std@@@std@@11@Z) 中被引用
+sar_sift.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::magnitude(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &)" (?magnitude@cv@@YAXAEBV_InputArray@debug_build_guard@1@0AEBV_OutputArray@31@@Z)，该符号在函数 "public: void __cdecl Sar_sift::build_sar_sift_space(class cv::Mat const &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &)" (?build_sar_sift_space@Sar_sift@@QEAAXAEBVMat@cv@@AEAV?$vector@VMat@cv@@V?$allocator@VMat@cv@@@std@@@std@@11@Z) 中被引用
+sar_sift.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::GaussianBlur(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,class cv::Size_<int>,double,double,int)" (?GaussianBlur@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV_OutputArray@31@V?$Size_@H@1@NNH@Z)，该符号在函数 "public: void __cdecl Sar_sift::build_sar_sift_space(class cv::Mat const &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &)" (?build_sar_sift_space@Sar_sift@@QEAAXAEBVMat@cv@@AEAV?$vector@VMat@cv@@V?$allocator@VMat@cv@@@std@@@std@@11@Z) 中被引用
+sar_sift.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::filter2D(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,int,class cv::debug_build_guard::_InputArray const &,class cv::Point_<int>,double,int)" (?filter2D@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV_OutputArray@31@H0V?$Point_@H@1@NH@Z)，该符号在函数 "public: void __cdecl Sar_sift::build_sar_sift_space(class cv::Mat const &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &,class std::vector<class cv::Mat,class std::allocator<class cv::Mat> > &)" (?build_sar_sift_space@Sar_sift@@QEAAXAEBVMat@cv@@AEAV?$vector@VMat@cv@@V?$allocator@VMat@cv@@@std@@@std@@11@Z) 中被引用
+D:\Image-Registration-master\sln\Image-Registration\x64\Debug\Image-Registration.exe : fatal error LNK1120: 23 个无法解析的外部命令

@@ -1,0 +1,2 @@
+﻿  match.cpp
+E:\Solar\lpOpenCV\openCV2.4.9\build\x86\vc12\bin\opencv_core249d.dll : fatal error LNK1107: 文件无效或损坏: 无法在 0x2F0 处读取
